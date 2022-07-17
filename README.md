@@ -5,10 +5,11 @@
 1. [Java](#Java)
    1. [Chapitre 1](#Chapitre_2)
    2. [Chapitre 2](#Chapitre_2)
-2. [Spring](#technologies)
-3. [SpringBoot](#installation)
+2. [Spring](#Spring)
+3. [SpringBoot](#SpringBoot)
 
 ## Java
+***
 
 ### Chapitre 1
 
@@ -18,6 +19,8 @@
 
 
 # Spring
+***
+
 ### Chapitre 1
 
 #### Example 1:
@@ -25,6 +28,8 @@
 ### Chapitre 2
 
 # SpringBoot
+***
+
 ### Chapitre 1
 
 #### Example 1:

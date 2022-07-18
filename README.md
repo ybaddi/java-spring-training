@@ -19,6 +19,8 @@
 
 ### Chapitre 2
 
+#### Example 1: [MultiParamMethode.java](https://github.com/ybaddi/java-spring-training/blob/main/Java/example_2/src/com/company/main/MultiParamMethode.java)
+
 #### Example 1: [Precedence.java]()
 #### Example 2: [Assignment.java]()
 #### Example 3: [PassObject.java]()
